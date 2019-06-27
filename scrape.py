@@ -1,4 +1,5 @@
-# Import libraries
+#Rob Wheeler, python-agician, living in pythonic land...
+# Import libraries for Damon @ml, files will generate txt files with output. can and will get quite large, so storing as BLOB
 import requests
 import urllib.request
 import time
